@@ -1,3 +1,5 @@
+# Feito por Gustavo Samuel e Pedro Graça
+
 # README
 
 # Sumário
